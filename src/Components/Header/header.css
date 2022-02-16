@@ -1,0 +1,60 @@
+.navbar-light .navbar-toggler-icon {
+  background-image: url("../../assets/toggler-icon.svg");
+}
+
+.navbar-light .navbar-toggler {
+  color: transparent;
+  border-color: transparent;
+}
+
+.navbar .nav-link {
+  padding: 0px 1.25rem !important;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 28px;
+  margin-top: 15px;
+  color: #fff !important;
+}
+.navbar .toggle-nav {
+  display: none;
+}
+
+.navbar .input {
+  background-color: #efefef;
+  color: #b0b0b0;
+  border-radius: 10px;
+  height: 3.375rem;
+  max-width: 17rem;
+  padding-left: 25px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.1px;
+  resize: vertical;
+}
+
+@media only screen and (max-width: 767px) {
+  .navbar .toggle-nav {
+    display: block;
+  }
+  .navbar .btn-primary {
+    padding: 14px 38px !important;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .navbar .nav-link {
+    padding: 0.5rem 1rem !important;
+  }
+  .navbar .btn-primary {
+    padding: 14px 10px;
+  }
+}
+
+@media only screen and (max-width: 410px) {
+  .navbar .btn-primary {
+    padding: 14px 10px !important;
+  }
+}

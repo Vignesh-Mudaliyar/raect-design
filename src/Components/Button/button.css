@@ -1,0 +1,24 @@
+.btn-primary {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing: 0.2px;
+  color: #2091f9;
+  background: #ffffff;
+  border-radius: 10px;
+  border: none;
+  padding: 14px 38px;
+}
+
+.btn-primary:hover {
+  background: #ffffff !important;
+  color: #2091f9;
+  box-shadow: none;
+}
+
+.btn-primary:focus {
+  background: #ffffff !important;
+  color: #2091f9;
+  box-shadow: none;
+}

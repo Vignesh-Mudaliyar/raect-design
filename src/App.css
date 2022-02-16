@@ -1,0 +1,17 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+.wave {
+  background-image: url("./assets/wave-background.png");
+  background-size: 100% 1000px;
+  background-repeat: no-repeat;
+  padding-top: 80px;
+}
+
+@media only screen and (max-width: 768px) {
+  .wave {
+    background-image: url("./assets/small-wave.png");
+    background-size: 100% 850px;
+    padding-top: 0px;
+  }
+}
