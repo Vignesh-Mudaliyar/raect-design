@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-design/static/css/main.bb2c5a5f.css",
+    "main.js": "/react-design/static/js/main.26e20416.js",
+    "static/media/wave-background.png": "/react-design/static/media/wave-background.b14a87b822d6c2d9e2a5.png",
+    "static/media/small-wave.png": "/react-design/static/media/small-wave.022add4d94fdd4bf4911.png",
+    "static/media/laptop.png": "/react-design/static/media/laptop.7a13af16c2af5244fab5.png",
+    "static/media/nav-logo.svg": "/react-design/static/media/nav-logo.4767ae6eff62693c57baaeab8ed88bf8.svg",
+    "index.html": "/react-design/index.html",
+    "static/media/toggler-icon.svg": "/react-design/static/media/toggler-icon.185da7235577584bdc9d.svg",
+    "main.bb2c5a5f.css.map": "/react-design/static/css/main.bb2c5a5f.css.map",
+    "main.26e20416.js.map": "/react-design/static/js/main.26e20416.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb2c5a5f.css",
+    "static/js/main.26e20416.js"
+  ]
+}
